@@ -1,4 +1,4 @@
-import logo from './mac-icon-3308.png';
+import logo from './aaappl.png';
 import './App.css';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
         <p className="title">
           Portland&nbsp;Mac&nbsp;Repair
           <br />
-          (503) 875-6345
+          <a href="tel:+5038756345">(503) 875-6345</a>
         </p>
         <p className="subtitle"><i>Let me help you today...</i></p>
         <p className="subtitle">
@@ -24,7 +24,7 @@ function App() {
           New&nbsp;Computer &nbsp;  &nbsp;
           Screen&nbsp;Replacement &nbsp;  &nbsp;
           Virus&nbsp;Removal &nbsp;  &nbsp;
-          Water&nbsp;Damage
+          Water&nbsp;Damage &nbsp;  &nbsp;
         </p>
         <img src={logo} className="App-logo-x" alt="logo" />
         <p className="footer">
