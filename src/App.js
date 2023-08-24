@@ -54,6 +54,7 @@ function App() {
             encouraged me to do the work myself. So impressed, I’d trust them to do the right thing and will use them from now on." ~ Lota LaMontagne
           </i></div>
         </div>
+          <a href="tel:+5038756345">(503) 875-6345</a>
         <div>
           <p className="footer">
             Copyright © {new Date().getFullYear()} Portland Mac Repair, All rights reserved.
