@@ -28,7 +28,7 @@ function App() {
           Virus&nbsp;Removal &nbsp;  &nbsp;
           Water&nbsp;Damage &nbsp;  &nbsp;
         </p>
-        <img src={logo} className="App-logo-x" alt="logo" />
+        <img src={logo} className="App-logo" alt="logo" />
         <div>
           <p className="footer">
             Copyright © {new Date().getFullYear()} Portland Mac Repair, All rights reserved.
