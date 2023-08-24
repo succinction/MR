@@ -35,6 +35,23 @@ a {
   padding-right: 12vmin;
   padding-left: 12vmin;
 }
+.reviews {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 100%;
+}
+.review {
+  border-radius: 25px;
+  font-size: calc(9px + 1vmin);
+  padding-right: 12vmin;
+  padding-left: 12vmin;
+  padding-top: 3vmin;
+  padding-bottom: 3vmin;
+  border: solid white;
+  max-width: 60%;
+  margin: auto;
+}
 .App-logo {
   display: block;
   max-width: 100%;
