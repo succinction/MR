@@ -1,36 +1,24 @@
-/* body .App { */
 body {
   text-align: center;
   background-image: linear-gradient(#3c9ecb,rgb(178, 109, 109));
   background-color:green;
 
 }
-
-
 .App-header {  
   min-width:100vw;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  /* align-items: center; */
   justify-content: center;
   font-size: calc(36px + 2vmin);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
-  /* position:absolute; */
-  /* left:0; */
-  /* top:0; */
-  /* background-color:rgb(24, 115, 149); */
   border:outline;
 }
 p {
   font-size: calc(10px + 2vmin);
-  /* margin:0; */
   margin-top: 10px;
   margin-bottom: 10px;
-  /* margin-left:calc(10px + 22vmin); */
-  /* padding-right: 120px;
-  padding-left: 120px; */
 }
 a {
   color:white;
@@ -38,13 +26,14 @@ a {
 .title {
   font-family: Impact, sans-serif;
   font-size: calc(36px + 2vmin);
-  /* margin:10px */
 }
 .subtitle {
   font-size: calc(18px + 2vmin);
 }
 .services {
   font-size: calc(9px + 1vmin);
+  padding-right: 12vmin;
+  padding-left: 12vmin;
 }
 .footer {
   color: lightblue;
