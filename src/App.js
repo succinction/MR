@@ -36,8 +36,7 @@ function App() {
           </i></div>
           <div className="review"><i>
             "The person you'll be dealing with at Portland Mac Repair is Ben.
-            <br/>Ben is your friend.
-            <br/>Ben is awesome." ~ Michael Brooks
+            Ben is your friend. Ben is awesome." ~ Michael Brooks
           </i></div>
           <div className="review"><i>
             "Had an awesome experience with Ben! I brought my Mac in for repair in early December, and it was fixed quickly for a fair price." ~ B Scoggin
