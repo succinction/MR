@@ -28,6 +28,7 @@ function App() {
           Virus&nbsp;Removal &nbsp;  &nbsp;
           Water&nbsp;Damage &nbsp;  &nbsp;
         </p>
+        <p className="services"><i>Specializing in laptops earlier than 2015, and iMacs and MacBook Airs earlier than 2019.</i></p>
         <img src={logo} className="App-logo" alt="logo" />
 
         <div className="reviews" >
